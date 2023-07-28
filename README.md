@@ -1,2 +1,18 @@
-# analise-critica-scrum
-Este repositório terá um minha analise critica de um estudo de caso utilizando o Scrum, do Desafio da DIO.
+# Análise Critica sobre aplicação Scrum - Case de Sucesso Projeto Scrum distribuído para ferrovias holandesas
+
+No Estudo de Caso cujo  título é: Projeto Scrum distribuído para ferrovias holandesas, o autor dá ênfase ao sucesso da implementação do Framework Scrum a um projeto que utilizava a metodologia tradicional no desenvolvimento de um sistema de informação aos passageiros das ferrovias holandesas, uma das mais utilizadas no mundo e que foi ao fracasso.
+O Autor destaca que a Abordagem Ágil foi utilizada após perceber  o prejuízo financeiro e de tempo, e que não conseguiram entregar algo de valor dentro do estipulado. Partindo do princípio de que o projeto precisava ser finalizado de forma mais rápida, mediante ao tempo decorrido, foi utilizada a abordagem ágil para conduzir o projeto.
+ Scrum é um framework onde um dos seus pilares é a Adaptação. O Autor se apoia neste pilar em sua narrativa e que  foi um dos motivos para utilizar o Scrum. A equipe era composta por Develops tanto da Holanda quanto da Índia e necessitava de Artefatos e eventos que auxiliasse toda a equipe.
+Como exemplo de que a  abordagem tradicional não seria o ideal para  o projeto, o mesmo destaca que, antes a equipe não contava com o cliente envolvido no projeto, logo foi feito a inclusão necessária para que o cliente cooperasse ativamente no projeto e que fosse possível ter pequenos incrementos no decorrer do projeto. 
+Podemos notar inicialmente que a equipe ágil teve algumas dificuldades, como por exemplo encontrar um Produtor Owner. Sabemos que deve existir um P.O para cada produto, porém mais uma vez o projeto teve que usar o princípio da adaptação e determinou dois analistas de negócio para representar o Dono do Negócio. 
+O estudo de caso deixa bem claro que os analistas de negócio da empresa não tinham expertise no framework, então Scrum Master do projeto teve que auxiliar inicialmente no Product Backlog, de forma que o antigo modelo  de documentação tradicional fosse minimizador a pequenas interações. Um desafio da equipe também foi trabalhar com a confiavel velocidade do Scrum para entrega de incrementos de valor.
+Podemos observar que mesmo nas dificuldades enfrentadas anteriormente, a equipe ágil conseguiu estipular uma Sprint com TimeBox de 2 Semanas, contando inicialmente com uma equipe de 7 pessoas, no qual está dentro do previsto para Scrum Teams.
+Percebe-se, que no artigo ficou claro que desde o início do projeto havia um desejo de poder aumentar a quantidade de Developers e com isso foi utilizado o Princípio  da Transparência, no qual  em um evento de Sprint Retrospective foi adotado as práticas a ser utilizada por todas da Scrum Team.
+
+O Autor destaca que os primeiros passos foram um sucesso e conseguiram entregar o primeiro incremento de valor no qual o cliente ficou super satisfeito e surpreso. Outro pilar do Scrum ficou fortemente intrínseco no projeto, pois  agora o cliente tinha mais controle sobre o projeto. Pois  ele utiliza do Pilares que é a  Inspeção.
+Um dos maiores feitos desse projeto em utilizar o Scrum, foi poder se adaptar às 
+adversidades existentes, como ocorreu ao implementar um modelo distribuído na programação.
+Havendo uma dificuldade na língua utilizada para se comunicar entre o P.O e as equipes da Índia, os Scrum teams fizeram uma adaptação em suas reuniões de planejamento e com isso foi obtido mais velocidade na entrega das sprints.
+O Autor deixa claro que dentro do artefato Scrum Backlog podem existir os requisitos funcionais e não funcionais. No projeto foi observado que necessitaria de uma equipe para estar focado nos requisitos não funcionais envolvendo a segurança e arquitetura do projeto. Logo foi observado um envolvimento de distintas áreas para se obter o resultado rápido.
+Por fim o autor evidencia que foi identificado a todo momento o compromisso e foco da equipe, valores do Scrum que ficou enraizado no Team Scrum e que isso levou ao sucesso do projeto.
+
